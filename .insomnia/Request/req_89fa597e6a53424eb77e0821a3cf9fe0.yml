@@ -1,10 +1,10 @@
-_id: req_wrk_ca69a46837d347fbadd81db10d324e0623acbe44
+_id: req_89fa597e6a53424eb77e0821a3cf9fe0
 type: Request
 parentId: fld_wrk_ca69a46837d347fbadd81db10d324e061b034c38
-modified: 1638355856908
-created: 1638354589466
+modified: 1638355867247
+created: 1638355867082
 url: "{{ base_url }}/pet"
-name: Add a new pet to the store
+name: Add a new pet to the store - Copy
 description: ""
 method: POST
 body:
@@ -34,7 +34,7 @@ headers:
     value: application/json
     id: pair_69d0fd3d3d754352ac8699ec34853cac
 authentication: {}
-metaSortKey: -1638354589466
+metaSortKey: -1638354589464.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
